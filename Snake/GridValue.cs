@@ -5,6 +5,7 @@
         Empty,
         Food,
         Snake,
-        Outside
+        Outside,
+        Obstacle // เพิ่ม
     }
 }
